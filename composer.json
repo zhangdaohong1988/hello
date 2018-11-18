@@ -1,0 +1,12 @@
+{
+    "name": "zhangdaohong1988/hello",
+    "description": "an example of composer package",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+"autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
